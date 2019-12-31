@@ -1,0 +1,9 @@
+{
+  "name": "reddit_subs_migrator",
+  "version": "1.0.0",
+  "main": "subs_migrator.js",
+  "dependencies": {
+    "snoowrap": "^1.20.1"
+  },
+  "license": "MIT"
+}
