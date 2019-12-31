@@ -5,5 +5,5 @@ INSTALL:
 npm install
 ```
 
-Create reddit apps in old and new account, then change credentials in the script.
+Create reddit apps in old and new account, then change credentials in the script.  
 Run with node.
